@@ -7,3 +7,7 @@
 ## HiPoHA In A Page
 
 <img src="https://tinymagiq.github.io/hipoha-framework/HiPoHaOnePager.jpg" />
+
+Download Program material from bootcamp
+<a href="Knowing The Unknown 2019 V2.pdf">Knowing The Unknown 2019 V2 Click here to download.</a>
+
