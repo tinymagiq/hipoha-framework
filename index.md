@@ -13,13 +13,13 @@ You can subscribe to the following to get more insights on improving performance
 
 Tiny Magiq You tube channel : <a href="https://www.youtube.com/c/TinyMagiq"> Click Here </a>
 
-Kumaran's FB page : <a href="https://touch.facebook.com/kums72> Click Here </a>
+Kumaran's FB page : <a href="https://touch.facebook.com/kums72"> Click Here </a>
 
-Sukumar's FB page : <a href="https://touch.facebook.com/sukumar> Click Here </a>
+Sukumar's FB page : <a href="https://touch.facebook.com/sukumar"> Click Here </a>
 
-Kumaran's LinkedIn Page:  <a href="https://in.linkedin.com/in/akumaran> Click Here </a>
+Kumaran's LinkedIn Page:  <a href="https://in.linkedin.com/in/akumaran"> Click Here </a>
 
-Sukumar's LinkedIn Page: <a href="https://in.linkedin.com/in/rajagopalsukumar> Click Here </a>
+Sukumar's LinkedIn Page: <a href="https://in.linkedin.com/in/rajagopalsukumar"> Click Here </a>
 
 ## Download All Bootcamp material 
 
