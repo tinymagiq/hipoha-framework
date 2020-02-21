@@ -6,4 +6,4 @@
 
 ## HiPoHA In A Nutshell with proper src
 
-<img src="https://static.wixstatic.com/media/7355a8_f76e52d6c75f4e82beb2dfcb8cacf1e0~mv2.png" />
+<img src="../HiPoHaOnePager.jpg" />
