@@ -6,3 +6,4 @@
 
 ## HiPoHA In A Nutshell
 
+<img src="https://static.wixstatic.com/media/7355a8_f76e52d6c75f4e82beb2dfcb8cacf1e0~mv2.png/v1/fill/w_129,h_140,al_c,q_85,usm_0.66_1.00_0.01/7355a8_f76e52d6c75f4e82beb2dfcb8cacf1e0~mv2.webp"}
