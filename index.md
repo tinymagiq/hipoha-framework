@@ -12,8 +12,8 @@ Download All Bootcamp material
 
 <table style="width: 521px; height: 123px;">
 <tbody>
-<tr style="height: 18px;">
-<td style="width: 172px; height: 18px;>
+<tr style="height: 27px;">
+<td style="width: 92px; height: 18px;">
 <h3><strong>Module 1</strong></h3>
 </td>
 <td style="width: 237px; height: 18px;">&nbsp; Extreme Pivot v23 &nbsp;</td>
