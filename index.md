@@ -23,6 +23,16 @@ Download All Bootcamp material
 <td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="../hipoha-framework/downloads/Knowing The Unknown 2019 V2.pdf">Click here to download</a></td>
 </tr>
 <tr style="height: 18px;">
+<td style="width: 92px; height: 18px;"><strong>Module 1</strong></td>
+<td style="width: 237px; height: 18px;">&nbsp;Extreme Pivot v23</td>
+<td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="../hipoha-framework/downloads/Extreme Pivot v23.0.pdf">Click here to download</a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 92px; height: 18px;"><strong>Module 2</strong></td>
+<td style="width: 237px; height: 18px;">&nbsp;Knowing The Unknown 2019 V2</td>
+<td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="../hipoha-framework/downloads/Knowing The Unknown 2019 V2.pdf">Click here to download</a></td>
+</tr>
+<tr style="height: 18px;">
 <td style="width: 92px; height: 18px;"><strong>Module 3</strong></td>
 <td style="width: 237px; height: 18px;">&nbsp;Future Making v7.0.pdf</td>
 <td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="../hipoha-framework/downloads/Future Making v7.0.pdf">Click here to download</a></td>
