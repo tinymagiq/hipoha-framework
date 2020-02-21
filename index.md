@@ -12,24 +12,24 @@ Download All Bootcamp material
 
 <table style="width: 521px; height: 123px;">
 <tbody>
-<tr style="height: 27px;">
-<td style="width: 92px; height: 27px;">
+<tr style="height: 18px;">
+<td style="width: 172px; height: 18px;>
 <h3><strong>Module 1</strong></h3>
 </td>
-<td style="width: 237px; height: 27px;">&nbsp;&nbsp;</td>
-<td style="width: 172px; height: 27px;">&nbsp;<a title="Download" href="check%202">Click here to download</a></td>
+<td style="width: 237px; height: 18px;">&nbsp; Extreme Pivot v23 &nbsp;</td>
+<td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="../hipoha-framework/downloads/Extreme Pivot v23.0.pdf">Click here to download</a></td>
 </tr>
-<tr style="height: 54px;">
-<td style="width: 92px; height: 54px;">
+<tr style="height: 27px;">
+<td style="width: 92px; height: 18px;">
 <h3>Module 2</h3>
 </td>
-<td style="width: 237px; height: 54px;">&nbsp;Knowing The Unknown 2019 V2</td>
-<td style="width: 172px; height: 54px;">&nbsp;<a title="Download" href="../hipoha-framework/downloads/Knowing The Unknown 2019 V2.pdf">Click here to download</a></td>
+<td style="width: 237px; height: 18px;">&nbsp;Knowing The Unknown 2019 V2</td>
+<td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="../hipoha-framework/downloads/Knowing The Unknown 2019 V2.pdf">Click here to download</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 92px; height: 18px;"><strong>Module 3</strong></td>
-<td style="width: 237px; height: 18px;">&nbsp;</td>
-<td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="check%202">Click here to download</a></td>
+<td style="width: 237px; height: 18px;">&nbsp;Future Making v7.0.pdf</td>
+<td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="../hipoha-framework/downloads/Future Making v7.0.pdf">Click here to download</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 92px; height: 18px;"><strong>Module 4&nbsp;</strong></td>
@@ -38,8 +38,8 @@ Download All Bootcamp material
 </tr>
 <tr style="height: 18px;">
 <td style="width: 92px; height: 18px;"><strong>Module 5&nbsp;</strong></td>
-<td style="width: 237px; height: 18px;">&nbsp;</td>
-<td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="check%202">Click here to download</a></td>
+<td style="width: 237px; height: 18px;">&nbsp;Tiny Grit v7.0</td>
+<td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="../hipoha-framework/downloads/Tiny Grit v7.0 - Express.pdf">Click here to download</a></td>
 </tr>
 </tbody>
 </table>
