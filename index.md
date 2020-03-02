@@ -32,8 +32,8 @@ Sukumar's LinkedIn Page: <a href="https://in.linkedin.com/in/rajagopalsukumar"> 
 </tr>
 <tr style="height: 18px;">
 <td style="width: 92px; height: 18px;"><strong>Module 2</strong></td>
-<td style="width: 237px; height: 18px;">&nbsp;Knowing The Unknown 2019 V2</td>
-<td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="https://github.com/tinymagiq/hipoha-framework/raw/master/Downloads/Knowing The Unknown 2019 V2.pdf">Click here to download</a></td>
+<td style="width: 237px; height: 18px;">&nbsp;Knowing The Unknown 2019 V3</td>
+<td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="https://github.com/tinymagiq/hipoha-framework/raw/master/Downloads/Knowing The Unknown 2019 V3.pdf">Click here to download</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 92px; height: 18px;"><strong>Module 3</strong></td>
