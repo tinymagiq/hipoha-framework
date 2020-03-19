@@ -66,6 +66,8 @@ Sukumar's LinkedIn Page: <a href="https://in.linkedin.com/in/rajagopalsukumar"> 
 <td style="width: 237px; height: 18px;">HiPoHa Model Canvas Ver 2.0.pdf</td>
 <td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="https://github.com/tinymagiq/hipoha-framework/raw/master/Downloads/HiPoHa Model Canvas Ver 2.0.pdf">Click here to download</a></td>
 </tr>
+</tbody>
+</table>
 
 ## Download Additional HiPoHA material 
 
