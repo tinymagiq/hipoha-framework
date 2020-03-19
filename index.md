@@ -69,7 +69,7 @@ Sukumar's LinkedIn Page: <a href="https://in.linkedin.com/in/rajagopalsukumar"> 
 <tr style="height: 18px;">
 <td style="width: 92px; height: 18px;"><strong>HiPoHA Certification</strong></td>
 <td style="width: 237px; height: 18px;">HiPOHA CERTIFICATION Ver 3.0</td>
-<td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="https://ithub.com/tinymagiq/hipoha-framework/raw/master/Downloads/HiPOHA CERTIFICATION Ver 3.0.pdf">Click here to download</a></td>
+<td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="https://github.com/tinymagiq/hipoha-framework/raw/master/Downloads/HiPOHA CERTIFICATION Ver 3.0.pdf">Click here to download</a></td>
 </tr>
 </tbody>
 </table>
