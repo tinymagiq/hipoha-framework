@@ -77,8 +77,8 @@ Sukumar's LinkedIn Page: <a href="https://in.linkedin.com/in/rajagopalsukumar"> 
 <td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="https://github.com/tinymagiq/hipoha-framework/raw/master/Downloads/Biz Value Calculator V 1.0.xlsx">Click here to download</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 92px; height: 18px;"><strong>HiPoHA Canvas</strong></td>
-<td style="width: 237px; height: 18px;">HiPoHa Model Canvas Ver 2.0</td>
+<td style="width: 92px; height: 18px;"><strong>HiPoHA Transformation Canvas</strong></td>
+<td style="width: 237px; height: 18px;">HiPoHa Transformation Canvas Ver 2.0</td>
 <td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="https://github.com/tinymagiq/hipoha-framework/raw/master/Downloads/HiPoHa Model Canvas Ver 2.0.pdf">Click here to download</a></td>
 </tr>
 <tr style="height: 18px;">
