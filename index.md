@@ -24,6 +24,8 @@ Kumaran's LinkedIn Page:  <a href="https://in.linkedin.com/in/akumaran"> Click H
 
 Sukumar's LinkedIn Page: <a href="https://in.linkedin.com/in/rajagopalsukumar"> Click Here </a>
 
+HiPoHa Happy Hour Cal Invite & Zoom Call Details: <a href="https://github.com/tinymagiq/hipoha-framework/blob/master/Downloads/HiPoHa%20Happy%20Hour%20ICS%20File.ics"> Click here to download </a>
+
 ## Download All Bootcamp material 
 
 <table style="width: 521px; height: 123px;">
