@@ -103,11 +103,6 @@ Sukumar's LinkedIn Page: <a href="https://in.linkedin.com/in/rajagopalsukumar"> 
 <td style="width: 237px; height: 18px;">Building Trust v1.1</td>
 <td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="https://github.com/tinymagiq/hipoha-framework/raw/master/Downloads/Building Trust v1.1.pdf"> Click here to download</a></td>
 </tr>
-<tr style="height: 18px;">
-<td style="width: 92px; height: 18px;"><strong>Follow-up Session</strong></td>
-<td style="width: 237px; height: 18px;">BTG - Who is winning </td>
-<td style="width: 172px; height: 18px;">&nbsp;<a title="Download" href="https://github.com/tinymagiq/hipoha-framework/raw/master/Downloads/BTG - Who is winning .pdf">Click here to download</a></td>
-</tr>
 
 </tbody>
 </table>
