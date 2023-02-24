@@ -1,8 +1,7 @@
 # HIPOHA
 
 ## Introduction
-
-  <script type="text/javascript" async=""> location.replace("http://www.hipoha.com") </script>
+  <script1 type="text/javascript" async=""> location.replace("http://www.hipoha.com") </script1>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YeLy4Cm7Cdk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
